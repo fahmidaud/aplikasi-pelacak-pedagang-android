@@ -17,9 +17,9 @@ Aplikasi Android yang dibangun menggunakan Flutter untuk memudahkan pengguna men
 ## 📸 Screenshot Aplikasi
 (WAJIB! Masukkan screenshot terbaik dari slide Anda ke bagian ini)
 
-| Halaman Sekitar | Profil Pembeli | Profil Penjual Keliling |
+| Halaman Sekitar | Pembeli Ingin Membeli | Halaman Dibeli |
 | :---: | :---: | :---: |
-| <img src="screenshot/modeSekitar1.png" alt="Halaman Sekitar" width="250"/> | `[Masukkan Screenshot Profil Pembeli]` | `[Masukkan Screenshot Profil Penjual]` |
+| <img src="screenshot/modeSekitar1.png" alt="Halaman Sekitar" width="250"/> | <img src="screenshot/subMenuPenjualKeliling.png" alt="Halaman Sekitar" width="250"/> | <img src="screenshot/subMenu.png" alt="Halaman Sekitar" width="250"/> |
 
 ## 🛠️ Teknologi yang Digunakan
 - **Frontend (Mobile):** Flutter
