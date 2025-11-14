@@ -6,7 +6,7 @@ Aplikasi Android yang dibangun menggunakan Flutter untuk memudahkan pengguna men
 
 <p align="center">
   <video width="320" alt="Demo Video Aplikasi" controls>
-    <source src="[screenshot/Cuplikandemo.mp4](https://raw.githubusercontent.com/fahmidaud/aplikasi-pelacak-pedagang-android/refs/heads/main/screenshot/Cuplikandemo.mp4)" type="video/mp4">
+    <source src="[screenshot/Cuplikandemo.mp4]" type="video/mp4">
     Browser Anda tidak mendukung tag video.
   </video>
 </p>
