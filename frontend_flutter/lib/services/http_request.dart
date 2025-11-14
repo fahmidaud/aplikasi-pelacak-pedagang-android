@@ -7,7 +7,7 @@ class HttpRequestService {
     var headers = {
       'Content-Type': 'application/json',
       'Authorization':
-          'key=AAAAK75R6wk:APA91bErgQXColWdpzaLbwo0xnN3Dx5BNEnU6cFpMJQNFXQgI-GPqLI-2i1Gk7ucPnFWS9MMgeN6Ke2taV-4OLt908we6z0sGH9N_oGjwf2PP76cUJN-q_NsSIIjIOymPj7s3kQkM4Gy'
+          'key=YOUR_API_KEY'
     };
     var request =
         http.Request('POST', Uri.parse('https://fcm.googleapis.com/fcm/send'));
@@ -28,3 +28,4 @@ class HttpRequestService {
     }
   }
 }
+
