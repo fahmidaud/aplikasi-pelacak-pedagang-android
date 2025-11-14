@@ -5,7 +5,7 @@ Aplikasi Android yang dibangun menggunakan Flutter untuk memudahkan pengguna men
 ## 🎬 Video Demo Aplikasi
 
 <p align="center">
-  <img src=".screenshot/Cuplikandemo.gif" alt="Demo Animasi Aplikasi" width="300"/>
+  <img src="screenshot/Cuplikandemo.gif" alt="Demo Animasi Aplikasi" width="300"/>
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/17LeKYFnTKdQD5M6rF19bbGdNzs-6vqhn/view?usp=sharing" target="_blank">
