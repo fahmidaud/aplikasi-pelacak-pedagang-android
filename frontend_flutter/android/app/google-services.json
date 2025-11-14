@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187876633353",
+    "project_id": "aplikasi-yo",
+    "storage_bucket": "aplikasi-yo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187876633353:android:487204f256e3f1c4d601d8",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_yo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPdhdO-MTcZReBI9nv531P_OmTChBUHio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
