@@ -5,16 +5,12 @@ Aplikasi Android yang dibangun menggunakan Flutter untuk memudahkan pengguna men
 ## 🎬 Video Demo Aplikasi
 
 <p align="center">
-  <video width="320" alt="Demo Video Aplikasi" controls>
-    <source src="https://raw.githubusercontent.com/fahmidaud/aplikasi-pelacak-pedagang-android/refs/heads/main/screenshot/Cuplikandemo.mp4" type="video/mp4">
-    Browser Anda tidak mendukung tag video.
-  </video>
+  <img src=".screenshot/Cuplikandemo.gif" alt="Demo Animasi Aplikasi" width="300"/>
 </p>
 <p align="center">
-  ➡️ Tonton video demo lengkap (resolusi tinggi) di  
   <a href="https://drive.google.com/file/d/17LeKYFnTKdQD5M6rF19bbGdNzs-6vqhn/view?usp=sharing" target="_blank">
-    Google Drive
-  </a>.
+    ➡️ Tonton video demo lengkap (resolusi tinggi) di Google Drive
+  </a>
 </p>
 
 ## 🎯 Latar Belakang Masalah (Problem)
